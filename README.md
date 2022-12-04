@@ -1,4 +1,4 @@
-# todo
+# Pemweb Shorten Link + Login/Register
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,4 +27,20 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Firebase
+```sh
+npm i firebase
+```
+### VueX
+```sh
+npm install vuex@next --save
+```
+
+### Tailwind
+```sh
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
 # PemWeb-Final-Project
